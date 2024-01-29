@@ -4,6 +4,7 @@
 
 ### Requirements
 - Python 3.x
+- Unix-like operating system (tested on Ubuntu 20.04)
 
 ### Usage
 
