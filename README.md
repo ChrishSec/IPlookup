@@ -1,6 +1,6 @@
 ## IPlookup
 
-`IPlookup` allows you to perform IP/Domain lookup using the iplookup.chrishsec.com API.
+`IPlookup` allows you to perform IP/Domain lookup using the [iplookup.chrishsec.com](https://iplookup.chrishsec.com) API.
 
 ### Requirements
 - Python 3.x
