@@ -16,7 +16,7 @@
 
 ```pip3 install -r requirements.txt```
 
-3. Run the script:
+3. Run the IPlookup.py:
 
 ```python3 IPlookup.py```
 
