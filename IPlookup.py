@@ -27,7 +27,7 @@ def main():
             url = "https://iplookup.chrishsec.com/"
             headers = {
                 "Host": "iplookup.chrishsec.com",
-                "User-Agent": "script",
+                "User-Agent": "IPlookup/v1.0.0",
                 "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
                 "Accept-Language": "en-US,en;q=0.5",
                 "Accept-Encoding": "gzip, deflate",
