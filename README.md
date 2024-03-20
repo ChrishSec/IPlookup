@@ -1,12 +1,26 @@
-## IPlookup
 
-`IPlookup` allows you to perform IP/Domain lookup using the [iplookup.chrishsec.com](https://iplookup.chrishsec.com) API.
+# IPlookup
 
-### Requirements
+Allows you to perform IP/Domain lookup using the [iplookup.chrishsec.com](https://iplookup.chrishsec.com) API.
+
+### GUI Usage
+
+- Download the `IPlookup_GUI.exe` from the [releases]() page.
+- Run the `IPlookup_GUI.exe`.
+- Enter the target domain or IP address, then click the submit button.
+
+### Screenshots
+
+![Screenshot 1](IPlookup_GUI/screenshots/screenshot_1.png)
+![Screenshot 2](IPlookup_GUI/screenshots/screenshot_2.png)
+
+
+
+### Cli Requirements
 - Python 3.x
 - Unix-like operating system (tested on Ubuntu 20.04)
 
-### Usage
+### Cli Usage
 
 1. Clone the repository:
 
@@ -36,4 +50,3 @@ This tool is released under the GNU General Public License v3.0. Everyone is per
 ## Author
 
 This tool was developed by [ChrishSec](https://github.com/ChrishSec). Feel free to fork, modify, and distribute it. If you have any questions or suggestions, please reach out to the author on [Telegram](https://t.me/ChrishSec).
-
