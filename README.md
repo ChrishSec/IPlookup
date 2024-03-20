@@ -5,7 +5,7 @@ Allows you to perform IP/Domain lookup using the [iplookup.chrishsec.com](https:
 
 ### GUI Usage
 
-- Download the `IPlookup_GUI.exe` from the [releases]() page.
+- Download the `IPlookup_GUI.exe` from the [releases](https://github.com/ChrishSec/IPlookup/releases/download/v1.0.0/IPlookup_GUI_1.0.0.zip) page.
 - Run the `IPlookup_GUI.exe`.
 - Enter the target domain or IP address, then click the submit button.
 
